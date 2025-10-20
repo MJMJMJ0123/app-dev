@@ -1,7 +1,7 @@
 # app-dev
 My first repository
 
-#h1 My favorite Movies
+#H1 My favorite Movies
 **- La La Land**
 : The story of aspiring actress Mia and dedicated jazz musician Sebastian, who struggle to make ends meet while pursuing their dreams in a city known for destroying hopes and breaking hearts.
 **- Uncut Gems**
